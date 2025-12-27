@@ -1,5 +1,5 @@
 # Case-Study-2-How-can-a-wellness-company-play-it-smart-
-## 1. A clear summary of the business task
+# 1. A clear summary of the business task
 Analyze smart device usage data from non-Bellabeat consumers to identify trends in daily health habits. 
 These insights will be applied to one Bellabeat product to inform a high-level marketing strategy that 
 unlocks new growth opportunities for the company.
@@ -58,6 +58,7 @@ Analysis of the Fitbit usage data reveals three distinct behavioral patterns amo
 
 # 5. Supporting visualizations and key findings
 The analysis of 30+ Fitbit users over a 30-day period revealed three critical behaviors that define the "Wellness Gap"—the difference between having a tracker and actually being healthy.
+
 **Finding 1: The "Sedentary Cycle" Impacts Sleep**
 **Visual:** <img width="870" height="422" alt="image" src="https://github.com/user-attachments/assets/cdfa35b5-a617-4b75-a2b0-d5d3e6017c05" />
 * **Observation:** There is a clear negative correlation between sedentary time and sleep duration. Users who spent more time sedentary (10+ hours) tended to sleep significantly less.
